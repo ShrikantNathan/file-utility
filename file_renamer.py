@@ -63,6 +63,5 @@ class FileRenameUtilities:
                 pass
 
 
-
 FileRenameUtilities().test()
 print('renamed')
